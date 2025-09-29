@@ -13,6 +13,7 @@ body {
   /*border: 1px solid black;*/
   justify-content: space-between;
   align-items: center; /* pushes left & right apart */
+  font-size: 1.2rem;
 }
 
 
